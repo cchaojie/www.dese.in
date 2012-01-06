@@ -1,0 +1,6 @@
+{
+	"name" : "hello cnae",
+	"main" : "./server.js",
+	"author" : "cj",
+	"customHost" : "www.dese.in"
+}
